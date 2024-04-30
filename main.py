@@ -4,7 +4,7 @@ Simple Calculator
 # Provide your solution here
 a=int(input(""))
 b=int(input(""))
-x = input("")
+x=input("")
 
 def calculate(a, b, x):
     if x== "+":
